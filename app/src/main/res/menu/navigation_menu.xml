@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_fragment_text"
+        android:icon="@drawable/icon_fragment_text"
+        android:title="Fragment Texte" />
+    <item
+        android:id="@+id/item_fragment_image"
+        android:icon="@drawable/icon_image"
+        android:title="Fragment image" />
+</menu>
